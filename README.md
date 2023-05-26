@@ -1,0 +1,2 @@
+# Practical_Project_Computer_Vision_and_Image_Classification
+My practical project when I studied Artificial Intelligence
